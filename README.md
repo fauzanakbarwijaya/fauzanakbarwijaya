@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **neacakbar@gmail.com**
 
-- 📄 Know about my experiences [https://fauzanakbarwijaya-portofolio.vercel.app/](https://fauzanakbarwijaya-portofolio.vercel.app/)
+- 📄 Know about my experiences [https://fauzanakbarwijaya-portofolio.vercel.app/](https://fauzanakbarwijaya.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
