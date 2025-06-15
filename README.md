@@ -2,19 +2,21 @@
 
 <table>
   <tr>
-    <td width="420">
-      <img src="https://cdn.dribbble.com/users/241402/screenshots/3517954/daughter2.gif" width="400" alt="Animated" />
+    <td>
+    <a href="https://github.com/fauzanakbarwijaya" title="GitHub">
+        <img src="https://img.shields.io/badge/GitHub-fauzanakbarwijaya-181717?logo=github&logoColor=white" alt="GitHub" style="margin-bottom:10px;" height="40"/>
+    </a><br>
+    <a href="https://linkedin.com/in/fauzan-akbar-wijaya" title="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-Fauzan%20Akbar%20Wijaya-blue?logo=linkedin" alt="LinkedIn" style="margin-bottom:10px;" height="40"/>
+    </a><br>
+    <a href="https://instagram.com/zancode_" title="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-zancode_-E4405F?logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom:10px;" height="40"/>
+    </a>
+    <br>
+    <span style="font-size:18px;">🌐 Connect with me!</span>
     </td>
-    <td align="right" valign="top">
-      <a href="https://github.com/fauzanakbarwijaya">
-        <img src="https://img.shields.io/badge/GitHub-fauzanakbarwijaya-181717?logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <a href="https://linkedin.com/in/fauzan-akbar-wijaya">
-        <img src="https://img.shields.io/badge/LinkedIn-Fauzan%20Akbar%20Wijaya-blue?logo=linkedin" alt="LinkedIn" />
-      </a>
-      <a href="https://instagram.com/zancode_">
-        <img src="https://img.shields.io/badge/Instagram-zancode_-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
+    <td width="420" align="right" valign="top">
+      <img src="https://cdn.dribbble.com/users/241402/screenshots/3517954/daughter2.gif" width="400" alt="Animated" />
     </td>
   </tr>
 </table>
