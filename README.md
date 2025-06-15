@@ -9,8 +9,8 @@
     <a href="https://linkedin.com/in/fauzan-akbar-wijaya" title="LinkedIn">
         <img src="https://img.shields.io/badge/LinkedIn-Fauzan%20Akbar%20Wijaya-blue?logo=linkedin" alt="LinkedIn" style="margin-bottom:10px;" height="40"/>
     </a><br>
-    <a href="https://instagram.com/zancode_" title="Instagram">
-        <img src="https://img.shields.io/badge/Instagram-zancode_-E4405F?logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom:10px;" height="40"/>
+    <a href="https://instagram.com/fauzanakbarwijaya_" title="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-fauzanakbarwijaya_-E4405F?logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom:10px;" height="40"/>
     </a>
     <br>
     <span style="font-size:18px;">🌐 Connect with me!</span>
@@ -35,7 +35,7 @@
 ## 🌐 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-fauzanakbarwijaya-181717?logo=github&logoColor=white)](https://github.com/fauzanakbarwijaya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fauzan%20Akbar%20Wijaya-blue?logo=linkedin)](https://linkedin.com/in/fauzan-akbar-wijaya)
-[![Instagram](https://img.shields.io/badge/Instagram-zancode_-E4405F?logo=instagram&logoColor=white)](https://instagram.com/zancode_)
+[![Instagram](https://img.shields.io/badge/Instagram-fauzanakbarwijaya_-E4405F?logo=instagram&logoColor=white)](https://instagram.com/fauzanakbarwijaya_)
 
 ---
 
