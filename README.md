@@ -60,5 +60,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanakbarwijaya&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
+<img src="https://raw.githubusercontent.com/fauzanakbarwijaya/fauzanakbarwijaya/output/snake.svg" alt="Snake animation" />
+
+###
 
 [![](https://visitcount.itsvg.in/api?id=fauzanakbarwijaya&icon=0&color=0)](https://visitcount.itsvg.in)
