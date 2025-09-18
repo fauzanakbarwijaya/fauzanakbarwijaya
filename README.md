@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Zan
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVpZmhqa2I0Z3libG1lc3Q3ZzFzbXN2bTE1b3V0Y3RxaXZ2eHI5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" alt="Coding GIF">
+  <img src="https://i.gifer.com/BkF3.gif" alt="Coding GIF">
 </p>
 
 I'm a results-driven Software Engineer from North Jakarta, Indonesia, with hands-on experience in architecting and developing full-stack web applications. I specialize in building robust backends using technologies like Laravel and responsive frontends with Vue.js and Tailwind CSS. I am passionate about project ownership and implementing clean, efficient architecture. 
