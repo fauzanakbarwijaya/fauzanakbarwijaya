@@ -45,14 +45,14 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 **Backend:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,laravel,flask" />
   </a>
 </p>
 
 **Databases & BaaS:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=supabase,mysql,postgres,sqlite" />
   </a>
 </p>
 
