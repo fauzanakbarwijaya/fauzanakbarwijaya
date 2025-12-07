@@ -67,10 +67,21 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 
 ### 📊 My GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanakbarwijaya&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+</p> -->
+
+<table border="0" style="margin-bottom:30px;">
+  <tr>
+    <td style="padding:10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td style="padding:10px;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=fauzanakbarwijaya&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 ---
 <img src="https://raw.githubusercontent.com/fauzanakbarwijaya/fauzanakbarwijaya/output/snake.svg" alt="Snake animation" />
