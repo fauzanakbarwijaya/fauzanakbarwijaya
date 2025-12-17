@@ -75,7 +75,7 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 <table border="0" style="margin-bottom:30px;">
   <tr>
     <td style="padding:10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&theme=dark&hide_border=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
     </td>
     <td style="padding:10px;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=fauzanakbarwijaya&theme=dark&hide_border=false" />
