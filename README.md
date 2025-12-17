@@ -72,16 +72,18 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanakbarwijaya&layout=compact&langs_count=8&theme=dracula"/>
 </p> -->
 
-<table border="0" style="margin-bottom:30px;">
+<table border="0" style="margin-bottom:30px; width:100%">
   <tr>
-    <td style="padding:10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&theme=dark&hide_border=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&theme=dark&hide_border=false&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width:100%;" />
     </td>
-    <td style="padding:10px;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=fauzanakbarwijaya&theme=dark&hide_border=false" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanakbarwijaya&layout=compact&theme=dark&hide_border=false&langs_count=10" alt="Top Languages" style="width:100%;" />
     </td>
-    <td style="padding:10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanakbarwijaya&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Top Languages" />
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=fauzanakbarwijaya&theme=dark&hide_border=false" alt="Streak Stats" style="width:100%;" />
     </td>
   </tr>
 </table>
