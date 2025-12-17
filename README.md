@@ -75,7 +75,7 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 <table border="0" style="margin-bottom:30px; width:100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&theme=dark&hide_border=false&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width:100%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&theme=dark&hide_border=false&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="width:100%;" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanakbarwijaya&layout=compact&theme=dark&hide_border=false&langs_count=10" alt="Top Languages" style="width:100%;" />
