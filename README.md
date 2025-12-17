@@ -74,9 +74,9 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 
 <table border="0" style="margin-bottom:30px;">
   <tr>
-    <!-- <td style="padding:10px;">
+    <td style="padding:10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    </td> -->
+    </td>
     <td style="padding:10px;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=fauzanakbarwijaya&theme=dark&hide_border=false" />
     </td>
