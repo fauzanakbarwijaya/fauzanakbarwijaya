@@ -80,6 +80,9 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
     <td style="padding:10px;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=fauzanakbarwijaya&theme=dark&hide_border=false" />
     </td>
+    <td style="padding:10px;">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fauzanakbarwijaya&theme=dark&layout=compact&border_radius=5px&custom_title=iaMJ%27s%20Wakatime%20Stats" />
+    </td>
   </tr>
 </table>
 
