@@ -82,9 +82,9 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
     </td> -->
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <!-- <td colspan="2" align="center">
         <img src="https://nirzak-streak-stats.vercel.app/?user=fauzanakbarwijaya&include_all_commits=true&theme=dark&hide_border=false" alt="Streak Stats" style="width:100%;" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
