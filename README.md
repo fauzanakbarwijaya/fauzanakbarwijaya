@@ -72,10 +72,10 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanakbarwijaya&layout=compact&langs_count=8&theme=dracula"/>
 </p> -->
 
-<table border="0" style="margin-bottom:30px; width:100%">
+<img src="https://streak-stats.demolab.com?user=fauzanakbarwijaya&theme=default&hide_border=true" alt="fauzanakbarwijaya's GitHub Stats" /><br/>
+<!-- <table border="0" style="margin-bottom:30px; width:100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=fauzanakbarwijaya&theme=default&hide_border=true" alt="fauzanakbarwijaya's GitHub Stats" /><br/>
     </td>
     <td width="50%" align="center">
       <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=fauzanakbarwijaya&theme=tokyonight&hide_border=false)<br/> -->
@@ -86,7 +86,7 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
       <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?usernamefauzanakbarwijaya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 <img src="https://raw.githubusercontent.com/fauzanakbarwijaya/fauzanakbarwijaya/output/snake.svg" alt="Snake animation" />
