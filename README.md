@@ -75,15 +75,15 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 <table border="0" style="margin-bottom:30px; width:100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&theme=dark&hide_border=false&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="width:100%;" />
+      ![](https://github-readme-stats.vercel.app/api?username=fauzanakbarwijaya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanakbarwijaya&layout=compact&theme=dark&hide_border=false&langs_count=10" alt="Top Languages" style="width:100%;" />
+      ![](https://github-readme-streak-stats.herokuapp.com/?user=fauzanakbarwijaya&theme=tokyonight&hide_border=false)<br/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=fauzanakbarwijaya&include_all_commits=true&theme=dark&hide_border=false" alt="Streak Stats" style="width:100%;" />
+      ![](https://github-readme-stats.vercel.app/api/top-langs/?usernamefauzanakbarwijaya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     </td>
   </tr>
 </table>
