@@ -73,20 +73,6 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 </p> -->
 
 <img src="https://streak-stats.demolab.com?user=fauzanakbarwijaya&theme=default&hide_border=true" alt="fauzanakbarwijaya's GitHub Stats" /><br/>
-<!-- <table border="0" style="margin-bottom:30px; width:100%">
-  <tr>
-    <td width="50%" align="center">
-    </td>
-    <td width="50%" align="center">
-      <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=fauzanakbarwijaya&theme=tokyonight&hide_border=false)<br/> -->
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?usernamefauzanakbarwijaya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-    </td>
-  </tr>
-</table> -->
 
 ---
 <img src="https://raw.githubusercontent.com/fauzanakbarwijaya/fauzanakbarwijaya/output/snake.svg" alt="Snake animation" />
