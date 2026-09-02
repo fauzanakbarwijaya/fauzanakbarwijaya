@@ -38,14 +38,14 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 **Frontend:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,tailwind,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=vue,flutter,tailwind,bootstrap,html,css" />
   </a>
 </p>
 
 **Backend:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,flask,codeigniter" />
+    <img src="https://skillicons.dev/icons?i=laravel,flask" />
   </a>
 </p>
 
