@@ -46,6 +46,7 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,flask" />
+    <img src="https://skills.syvixor.com/api/icons?i=codeigniter&perline=12&radius=40" alt="Skill Icons" />
   </a>
 </p>
 
