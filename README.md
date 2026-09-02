@@ -45,7 +45,7 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 **Backend:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,laravel,flask" />
+    <img src="https://skillicons.dev/icons?i=laravel,flask,codeigniter" />
   </a>
 </p>
 
